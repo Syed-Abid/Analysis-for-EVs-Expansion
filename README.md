@@ -20,8 +20,9 @@ Welcome to the **EV Expansion Analysis** repository! This project was completed 
 
 ## 📊 Dashboards  
 
-
-
+<div align="center">
+  <img src="" alt="EV Analysis Dashboard">
+</div>
 
 ## 🚀 Achievements  
 - Collaborated with **Codebasics** to deliver actionable insights.  
