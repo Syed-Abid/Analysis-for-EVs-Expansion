@@ -27,3 +27,10 @@ Welcome to the **EV Expansion Analysis** repository! This project was completed 
 - Collaborated with **Codebasics** to deliver actionable insights.  
 - Built comprehensive dashboards to support strategic planning for EV market expansion.  
 - Enhanced analysis with advanced Power BI functionalities like slicers, drill-through, and KPI visualizations.
+
+## 📬 Contact
+
+Questions or suggestions? Reach out to me:
+
+- **Syed Abid Hassan**
+- **Email:** [abidhassanjaffri31@gmail.com](mailto:abidhassanjaffri31@gmail.com)
