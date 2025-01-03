@@ -21,7 +21,7 @@ Welcome to the **EV Expansion Analysis** repository! This project was completed 
 ## 📊 Dashboards  
 
 <div align="center">
-  <img src="" alt="EV Analysis Dashboard">
+  <img src="https://github.com/Syed-Abid/EVs-Expansion-Analysis/blob/main/AtliQ%20Motors%20Dashboard.png" alt="EV Analysis Dashboard">
 </div>
 
 ## 👨🏻‍🏫 Presentation 
